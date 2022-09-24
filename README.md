@@ -8,5 +8,5 @@
 - Web3
 - Tailwind CSS
 
-## Website Demo
+## Web App
 https://muffinswap.netlify.app/
